@@ -1,7 +1,6 @@
-/*  Name: Ferris Prima NUGRAHA
-    SID : 20543826
-    COMP 3311 Summer 2020
-    Task 2 Query 
+/*  
+Inspired from COMP3311
+SQL to process query based on requirements and constraints
 */
 
 
