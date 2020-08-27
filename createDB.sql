@@ -1,7 +1,6 @@
-/*  Name: Ferris Prima NUGRAHA
-    SID : 20543826
-    COMP 3311 Summer 2020
-    Task 2 Create Relation Schemas
+/*  
+Inspired from COMP3311
+Creating relational schema based on ER Model with Oracle SQL
 */
 
 clear screen
